@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@400;700&family=Sansita:wght@400;700&display=swap');
+
+*{
+  margin: 0;
+  font-family: "Palanquin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #4e5f59;
+
+  
+}
+body{
+  background-color: #ebe7e1;
+  color: #4e5f59;
+}
+h1, h2, h3 {
+  margin: 1rem 0;
+  font-family: "Sansita", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  color: #4e5f59;
+}
+
+Header{
+  margin-bottom: 2em;
+}
