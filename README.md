@@ -9,7 +9,6 @@
 - **Catálogo Interactivo:** Explora una variedad de productos con imágenes y precios.
 - **Carrito de Compras:** Añade productos al carrito y visualiza los totales en tiempo real.
 - **Formulario de Contacto:** Permite a los usuarios enviar consultas personalizadas.
-- **Panel Administrativo (ABM):** Gestión completa de productos para administradores.
 - **Persistencia de Datos:** Los datos se almacenan en una base de datos MySQL y localStorage.
 
 ## 🛠️ Tecnologías
