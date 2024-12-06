@@ -2,7 +2,7 @@
 
 **Jardín Soñado** es un sitio web creado con Vue.js, diseñada para ofrecer a los usuarios una experiencia interactiva en la compra de plantas. Este proyecto es parte de una consigna académica y destaca por su diseño amigable y funcionalidades avanzadas.
 
-![Jardín Soñado](src/assets/images/captura.png)
+![Jardín Soñado](app/src/assets/images/captura.png)
 
 ## 🚀 Funcionalidades
 
