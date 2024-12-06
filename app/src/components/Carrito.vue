@@ -22,7 +22,7 @@
         <p v-else class="text-center fs-5">No hay productos en el carrito.</p>
 
         <h3 class="mt-4">Total: ${{ total }}</h3>
-        <button v-on:click="clearCart" class="btn btn-danger my-4">Vaciar carrito</button>
+        <button v-on:click="clearCart" v-bind:disabled="cart.length === 0" class="btn btn-danger my-4">Vaciar carrito</button>
     </div>
 </template>
 

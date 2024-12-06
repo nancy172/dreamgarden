@@ -25,7 +25,7 @@ import Header from './components/Header.vue';
 
 <style>
   .container {
-    max-width: 1366px;
+    max-width: 1200px;
   }
   footer {
     padding: 3em 0;

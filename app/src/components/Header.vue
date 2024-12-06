@@ -27,9 +27,9 @@
               <li class="nav-item mx-3">
                 <router-link class="nav-link fs-5" to="/contacto">Contacto</router-link>
               </li>
-              <li class="nav-item mx-3">
+              <!-- <li class="nav-item mx-3">
                 <router-link class="nav-link fs-5" to="/gestion">Gestión</router-link>
-              </li>
+              </li> -->
               
             </ul>
           </div>
